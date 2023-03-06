@@ -2,5 +2,5 @@
 
 
 My resume created in reactJS and deployed to netlify.
-### Link to the deployement <a href="https://parthpatel-resume.netlify.app/">Resume</a>
+### Link to the deployement <a href="https://dhwanilresume.netlify.app/">Resume</a>
 
