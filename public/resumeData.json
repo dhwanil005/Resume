@@ -1,0 +1,97 @@
+{
+  "main": {
+    "name": "Dhwanil Shah",
+    "occupation": "Full Stack Developer",
+    "description": "I work on every part of the stack",
+    "image": "profilepic.jpg",
+    "bio": "My experience has allowed me to develop skills in designing and implementing high-performance, scalable, reusable, and maintainable software. I have a solid understanding of OO programming languages such as Java, Python and have worked with web services, SOA, and REST APIs. Moreover, my academic background has equipped me with the ability to apply my knowledge of computer science to real-world problems.",
+    "contactmessage": "Get in touch with me for any working opportunities.",
+    "email": "mails2dhwanil@gmail.com",
+    "phone": "+1 2368698536",
+    "address": {
+      "street": "9177 147A Street",
+      "city": "Surrey",
+      "state": "British Columbia",
+      "zip": "V3R 3V9"
+    },
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1Y2dFn6_qpR65ZHfNodkxT3ag6985vWgt",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhwanil-shah-327a7415b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dhwanil005",
+        "className": "fa fa-github"
+      }
+    ]
+
+  },
+  "resume": {
+    "skillmessage": "My Conceptual & Language Proficiency",
+    "education": [
+      {
+        "school": "Northeastern University",
+        "degree": "Master's of Science in Computer Science",
+        "graduated": "April 2023",
+        "description": "Graduating in April 2023"
+      },{
+        "school": "Charotar University of Science and Technology",
+        "degree": "Bachelor's in Computer Engineering",
+        "graduated": "May 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ansys",
+        "title": "Software Developer Intern",
+        "years": "May 2022 - August 2022",
+        "description": "Developed toolkits for Ansys' Icepak AEDT that helped in dynamic creation of 3D Models. Maintained the code according to the user requirements. Collaborated with senior developer to brainstorm and implement ideas for developing the toolkits"
+      },
+      {
+        "company": "iClerisy",
+        "title": "Software Engineer Intern",
+        "years": "January 2021 - May 2021",
+        "description": "Developed a React Native application for Best Choice Products, a company based in California. Implemented with shopify backend along with React Native AsyncStorage to improve user experience over company’s website by 40%."
+      },
+      {
+        "company": "Datatech Computers",
+        "title": "Software Engineer Intern",
+        "years": "April 2020 - July 2020",
+        "description": "Designed a Laundry Management System for a client based in United States.Created a web application that helped customers to add their laundry with priority, weight and type with help of database and also created a receipt for customer."
+      },
+     
+      {
+        "company": "iCarus Solutions",
+        "title": "Software Engineer Intern",
+        "years": "May 2019 - June 2019",
+        "description": "Learnt basics of Android App Development and developed an app for a food ordering system. Implemented complete UI by using Recycler View."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "98%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "99%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Java",
+        "level": "95%"
+      }
+    ]
+  }
+}
