@@ -9,12 +9,12 @@
     "email": "mails2dhwanil@gmail.com",
     "phone": "+1 2368698536",
     "address": {
-      "street": "9177 147A Street",
-      "city": "Surrey",
-      "state": "British Columbia",
-      "zip": "V3R 3V9"
+      "street": "1950 Kennedy Road",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M1P 4S9"
     },
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1Y2dFn6_qpR65ZHfNodkxT3ag6985vWgt",
+    "resumedownload": "https://www.dropbox.com/s/el6fr72gaipcxz1/ShahDhwanil_Resume.pdf?dl=0",
     "social": [
       {
         "name": "linkedin",
@@ -36,12 +36,12 @@
         "school": "Northeastern University",
         "degree": "Master's of Science in Computer Science",
         "graduated": "April 2023",
-        "description": "Graduating in April 2023"
+        "description": "Graduated with Distinction (3.6/4)"
       },{
         "school": "Charotar University of Science and Technology",
         "degree": "Bachelor's in Computer Engineering",
         "graduated": "May 2021",
-        "description": "Graduated with Distinction"
+        "description": "Graduated with Distinction (8.88/10)"
       }
     ],
     "work": [
